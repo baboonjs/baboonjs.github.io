@@ -1,0 +1,18 @@
+.splash {
+  padding: 20px;
+  background-color: grey;
+}
+
+.bd-masthead {
+  padding: 3rem 0;
+  background: linear-gradient(0deg, #ED7D31 50%, #ff9966 50%);
+  background: linear-gradient(0deg, rgba(237, 125, 49, 0.9) 0%, rgba(237, 125, 49, 1) 100%);
+}
+
+@media (min-width: 768px) {
+
+  .bbn-splash-image {
+    height: 350px;
+  }
+}
+
