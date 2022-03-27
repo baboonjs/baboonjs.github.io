@@ -1,2 +1,2 @@
 # baboonjs.github.io
-Baboon.js Website
+Baboon.js Website source code and generated files
